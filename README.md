@@ -1,4 +1,4 @@
-# SexyPong (Pygame)
+# Pong (Pygame)
 
 A simple two-player Pong game built using Python and Pygame. Minimalistic, responsive, and a quick throwback to the arcade classic.
 
